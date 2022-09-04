@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865966178611-papgipk8aalr45qplosleb3h3anhvus2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865966178611</string>
+    <string name="google_api_key" translatable="false">AIzaSyD2U1JJ-IpsT04mcshfWI8Fr84itW9bumg</string>
+    <string name="google_app_id" translatable="false">1:865966178611:android:9cb1cab5e3b043e05f7e46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD2U1JJ-IpsT04mcshfWI8Fr84itW9bumg</string>
+    <string name="google_storage_bucket" translatable="false">wedonate-bdc49.appspot.com</string>
+    <string name="project_id" translatable="false">wedonate-bdc49</string>
+</resources>
